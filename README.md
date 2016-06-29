@@ -6,6 +6,9 @@ Kitchener-Waterloo news/information aggregation website
   - http://dat-data.com/
   - https://localwiki.org/
   - elm tree project
+  - https://github.com/feedreader/pluto
+  - https://github.com/Aupajo/almanack
+  - https://github.com/theirishpenguin/ical-merger
 
 ## Notes and backlog
 * Create iCal and RSS aggregation for the region
@@ -48,9 +51,27 @@ Kitchener-Waterloo news/information aggregation website
   - http://www.kitchener.ca/en/News/search.aspx
   - http://www.reddit.com/r/kitchener
   - find waterloo sub-reddit
+  - http://www.starecity.com/
+  - http://www.parentchildguide.com/
+  - https://communityedition.ca/
+  - Startup North
+  - techvibes
+  - waterloo wellington blogger association
 * podcasts
   - http://pnijjar.freeshell.org/2014/wr-podcasts/
   - https://twitter.com/fullstackradio
   - http://slightlysauced.com/
   - http://castroller.com/
     * locally produced podcast aggregator by Will Spaetze
+  - getfunnelcake.com
+* in general things to aggregate
+  - blogs
+  - indieweb formatted things
+  - calendar
+  - video
+  - audio
+  - images
+  - geographic
+  - microblog
+  - repositories/commits/pull requests
+  - whatelse?
