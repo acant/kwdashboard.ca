@@ -62,7 +62,7 @@ Kitchener-Waterloo news/information aggregation website
   - https://twitter.com/fullstackradio
   - http://slightlysauced.com/
   - http://castroller.com/
-    * locally produced podcast aggregator by Will Spaetze
+    * locally produced podcast aggregator by Will Spaetzel
   - getfunnelcake.com
 * in general things to aggregate
   - blogs
